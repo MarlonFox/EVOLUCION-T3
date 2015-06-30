@@ -1,0 +1,5 @@
+D:\Evolucion\Arreglado\Entidad\bin\Debug\Entidad.dll
+D:\Evolucion\Arreglado\Entidad\bin\Debug\Entidad.pdb
+D:\Evolucion\Arreglado\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+D:\Evolucion\Arreglado\Entidad\obj\Debug\Entidad.dll
+D:\Evolucion\Arreglado\Entidad\obj\Debug\Entidad.pdb

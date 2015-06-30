@@ -1,0 +1,10 @@
+D:\Evolucion\Generador\CodigoBarras\bin\Debug\CodigoBarras.exe.config
+D:\Evolucion\Generador\CodigoBarras\obj\Debug\CodigoBarras.Form1.resources
+D:\Evolucion\Generador\CodigoBarras\obj\Debug\CodigoBarras.Properties.Resources.resources
+D:\Evolucion\Generador\CodigoBarras\obj\Debug\CodigoBarras.csproj.GenerateResource.Cache
+D:\Evolucion\Generador\CodigoBarras\bin\Debug\CodigoBarras.exe
+D:\Evolucion\Generador\CodigoBarras\bin\Debug\CodigoBarras.pdb
+D:\Evolucion\Generador\CodigoBarras\bin\Debug\itextsharp.dll
+D:\Evolucion\Generador\CodigoBarras\obj\Debug\CodigoBarras.exe
+D:\Evolucion\Generador\CodigoBarras\obj\Debug\CodigoBarras.pdb
+D:\Evolucion\Generador\CodigoBarras\obj\Debug\CodigoBarras.csprojResolveAssemblyReference.cache

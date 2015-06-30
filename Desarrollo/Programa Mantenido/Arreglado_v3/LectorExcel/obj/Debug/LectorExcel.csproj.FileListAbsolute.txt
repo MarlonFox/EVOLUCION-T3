@@ -1,0 +1,5 @@
+D:\Evolucion\Arreglado\LectorExcel\obj\Debug\LectorExcel.csprojResolveAssemblyReference.cache
+D:\Evolucion\Arreglado\LectorExcel\bin\Debug\LectorExcel.dll
+D:\Evolucion\Arreglado\LectorExcel\bin\Debug\LectorExcel.pdb
+D:\Evolucion\Arreglado\LectorExcel\obj\Debug\LectorExcel.dll
+D:\Evolucion\Arreglado\LectorExcel\obj\Debug\LectorExcel.pdb
